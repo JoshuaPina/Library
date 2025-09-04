@@ -1,0 +1,59 @@
+Type,Format,Topic,Title,Subtitle,Edition,Author 1,Author 2,Author 3,Author 4,Author 5,Publisher,Year,Latest Version?,Free Download?,ID,Authors
+Book,PDF,Data Science,Data Science from Scratch,First Principles with Python,2nd,Joel Grus,,,,,O'Reilly,2019.0,Maybe,No,1,Joel Grus
+Book,PDF,Machine Learning,Machine Learning for Absolute Beginners,A Plain English Introduction,3rd,Oliver Theobald,,,,,Scatterplot Press,2021.0,Maybe,No,2,Oliver Theobald
+Book,PDF,Artificial Intelligence,AI Engineering,Building Applications with Foundation Models,1st,Chip Huyen,,,,,O'Reilly,2025.0,Yes,No,3,Chip Huyen
+Book,PDF,Machine Learning,Applied Machine Learning and AI for Engineers,Solve Business Problems That Can't Be Solved Algorithmically,1st,Jeff Prosise,,,,,O'Reilly,2023.0,Yes,No,4,Jeff Prosise
+Book,PDF,Artificial Intelligence,Artificial Intelligence,A Modern Approach,4th,Stuart Russell,Peter Norvig,,,,Pearson,2021.0,Yes,No,5,"Stuart Russell, Peter Norvig"
+Study Guide,PDF,Digital Image Processing,Digital Image Processing (EEC 022),,,,,,,,,,Maybe,Yes,6,Unknown
+Book,PDF,Computer Vision,Computer Vision,Algorithms and Applications,2nd,Richard Szeliski,,,,,,2022.0,Yes,Yes,7,Richard Szeliski
+Book,PDF,Data Science,Build a Career in Data Science,,1st,Emily Robinson,Jacqueline Nolis,,,,Manning,2020.0,Maybe,No,8,"Emily Robinson, Jacqueline Nolis"
+Book,PDF,Python,Effective Python,125 Specific Ways to Write Better Python,3rd,Brett Slatkin,,,,,Pearson,2024.0,Yes,No,9,Brett Slatkin
+Book,PDF,Machine Learning,Feature Engineering for Machine Learning,Principles and Techniques for Data Scientists,1st,Alice Zheng,Amanda Casari,,,,O'Reilly,2018.0,Maybe,No,10,"Alice Zheng, Amanda Casari"
+Book,PDF,Python,Impractical Python Projects,Playful Programming Activities to Make You Smarter,1st,Lee Vaughan,,,,,No Starch press,2019.0,Maybe,No,11,Lee Vaughan
+Book,PDF,Machine Learning,Machine Learning for Hackers,Case Studies and Algorithms to Get You Started,1st,Drew Conway,John Myles White,,,,O'Reilly,2012.0,Maybe,No,12,"Drew Conway, John Myles White"
+Book,PDF,Python,The Recursive Book of Recursion,Ace the Coding Interview with Python and Javascript,1st,Al Sweigart,,,,,No Starch press,2022.0,Maybe,No,13,Al Sweigart
+Book,PDF,Statistics,An Introduction to Statistical Learning,with Applications in Python,3rd,Gareth James,Daniela Witten,Trevor Hastie,Robert Tibshirani,Jonathan Taylor,,2023.0,Yes,Yes,14,"Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor"
+Slides,PDF,Digital Image Processing,Digital Image Processing ,CSC 4260 Lecture,1st,Abdullah Bal,,,,,,2025.0,Yes,No,15,Abdullah Bal
+Book,PDF,Data Engineering,Big Book of Data Engineering,,3rd,Assorted,,,,,DataBricks,2025.0,Yes,Yes,16,Assorted
+Book,PDF,Artificial Intelligence,LLM Engineer's Handbook,Master the Art of Engineering Large Language Models from Concept to Production,1st,Paul Iusztin,Maxime Labonne,,,,Packt Publishing,2024.0,Yes,No,17,"Paul Iusztin, Maxime Labonne"
+Book,PDF,Machine Learning,Big Book of Machine Learning Use Cases,"A Collection of Technical Blogs, Including Code Samples and Notebooks",2nd,Assorted,,,,,DataBricks,2025.0,Yes,Yes,18,Assorted
+Book,PDF,Machine Learning,Pattern Recognition and Machine Learning,,1st,Christopher M. Bishop,,,,,Springer,2006.0,Maybe,Yes,19,Christopher M. Bishop
+Book,PDF,Machine Learning,Building Machine Learning Powered Applications,Going from Idea to Product,1st,Emmanuel Ameisen,,,,,O'Reilly,2020.0,Maybe,No,20,Emmanuel Ameisen
+Book,PDF,Deep Learning,Deep Learning,,1st,Ian Goodfellow,Yoshua Bengio,Aaron Courville,,,,,Maybe,Yes,21,"Ian Goodfellow, Yoshua Bengio, Aaron Courville"
+Book,PDF,Deep Learning,Deep Learning for Finance,Creating Machine & Deep Learning Models for Trading in Python,1st,Sofien Kaabar,,,,,O'Reilly,2024.0,Yes,No,22,Sofien Kaabar
+Book,PDF,Machine Learning,Designing Machine Learning Systems,An Iterative Process for Production-Ready Applications,1st,Chip Huyen,,,,,O'Reilly,2022.0,Maybe,No,23,Chip Huyen
+Book,PDF,Deep Learning,GANs in Action,Deep Learning with Generative Adversarial Networks,1st,Jakub Langr,Vladmir Bok,,,,Manning,2019.0,Maybe,No,24,"Jakub Langr, Vladmir Bok"
+Book,PDF,Deep Learning,Generative Deep Learning,"Teaching Machines to Paint, Write, Compose, and Play",2nd,David Foster,,,,,O'Reilly,2023.0,Maybe,No,25,David Foster
+Book,PDF,Machine Learning,Hands-On Generative AI with Transformers and Diffusion Models,(Early Release),1st,Omar Sanseviero,Pedro Cuenca,Apolinario Passos,Jonathan Whitaker,,O'Reilly,2025.0,Yes,No,26,"Omar Sanseviero, Pedro Cuenca, Apolinario Passos, Jonathan Whitaker"
+Book ,PDF,Artificial Intelligence,Hands-On Large Language Models,Language Understanding and Generation,1st,Jay Alammar,Maarten Grootendorst,,,,O'Reilly,2024.0,Yes,No,27,"Jay Alammar, Maarten Grootendorst"
+Book,PDF,Machine Learning,"Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow","Concepts, Tools, and Techniques to Build Intelligent Systems",3rd,Aurelien Geron,,,,,O'Reilly,2023.0,No,No,28,Aurelien Geron
+Book,Physical,Machine Learning,"Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow","Concepts, Tools, and Techniques to Build Intelligent Systems",3rd,Aurelien Geron,,,,,O'Reilly,2023.0,No,No,29,Aurelien Geron
+Book,PDF,Machine Learning,Machine Learning for Humans,,1st,Vishal Maini,Samer Sabri,,,,,2017.0,Maybe,Unsure,30,"Vishal Maini, Samer Sabri"
+Book,PDF,NLP,Natural Language Processing with Transformers,Building Language Applications with Hugging Face,1st,Lewis Tunstall,Leandro von Werra,Thomas Wolf,,,O'Reilly,2022.0,Maybe,No,31,"Lewis Tunstall, Leandro von Werra, Thomas Wolf"
+Book,PDF,Machine Learning,Practical MLOps,Operationalizing Machine Learning Models,1st,Noah Gift,Alfredo Deza,,,,O'Reilly,2021.0,Maybe,No,32,"Noah Gift, Alfredo Deza"
+Book,PDF,Statistics,The Elements of Statistical Learning,"Data Mining, Inference, and Prediction",2nd,Trevor Hastie,Robert Tibshirani,Jerome Friedman,,,Springer,2008.0,Maybe,Yes,33,"Trevor Hastie, Robert Tibshirani, Jerome Friedman"
+Book,PDF,Math for Machine Learning,Machine Learning: A Probabilistic Perspective,,1st,Kevin P. Murphy,,,,,MIT,2012.0,Maybe,Yes,34,Kevin P. Murphy
+Book,PDF,Math for Machine Learning,Mathematics for Machine learning,,1st,Marc Peter Deisenroth,A. Aldo Faisal,Cheng Soon Ong,,,Cambridge,2019.0,Maybe,Yes,35,"Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong"
+Book ,PDF,Math for Machine Learning,Practical Statistics for Data Scientists,50+ Essential Concepts Using R and Python,2nd,Peter Bruce,Andrew Bruce,Peter Gedeck,,,O'Reilly,2020.0,Maybe,No,36,"Peter Bruce, Andrew Bruce, Peter Gedeck"
+Book,PDF,Math for Machine Learning,Practical Statistics for Data Scientists,50+ Essential Concepts Using R and Python,1st,Peter Bruce,Andrew Bruce,,,,O'Reilly,2017.0,No,No,37,"Peter Bruce, Andrew Bruce"
+Book,PDF,Math for Machine Learning,Probabilistic Machine Learning,Advanced Topics,1st,Kevin P. Murphy,,,,,MIT,2022.0,Maybe,Yes,38,Kevin P. Murphy
+Book,PDF,Math for Machine Learning,Probabilty and Statistics for Data Science,,1st,Carlos Fernandez-Granda,,,,,,2017.0,Maybe,Yes,39,Carlos Fernandez-Granda
+Book,PDF,Math for Machine Learning,Probability and Statistics for Computer Scientists,,2nd,Michael Baron,,,,,CRC Press,2014.0,Maybe,Yes,40,Michael Baron
+Book,PDF,Data Science,Big Book of Data Science Use Cases,,2nd,Assorted,,,,,DataBricks,2023.0,Maybe,Yes,41,Assorted
+Short eBook,PDF,Python,An Introduction to Python,"A Guide for Marketers, Developers, and Data Analysts",1st,Assorted,,,,,HubSpot,2023.0,Maybe,Yes,42,Assorted
+Book,PDF,Python,Python for Everybody,Exploring Data Using Python 3,3rd,Dr. Charles R. Severance,,,,,,2024.0,Yes,Yes,43,Dr. Charles R. Severance
+Book,PDF,Big Data,Learning Spark,Lightning-Fast Data Analysis,1st,Holden Karau,Andy Konwinski,Patrick Wendell,Matei Zaharia,,O'Reilly,2015.0,Maybe,No,44,"Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia"
+Book,PDF,Big Data,Scalable Machine Learning with Apache Spark,,1st,Assorted,,,,,DataBricks,2024.0,Maybe,Yes,45,Assorted
+Book,PDF,Big Data,Spark: The Definitive Guide,Big Data Processing Made Simple,1st,Bill Chambers,Matei Zaharia,,,,O'Reilly,2018.0,Maybe,No,46,"Bill Chambers, Matei Zaharia"
+Short eBook,PDF,Artificial Intelligence,How to Learn AI,A Beginner's Guide,1st,Aleksandra Yosifova,,,,,365DataScience,2023.0,Maybe,Yes,47,Aleksandra Yosifova
+Short eBook,PDF,Data Science,The Ultimate Data Science Career Guide,Break into Data Science,2nd,Iliya Valchanov,,,,,365DataScience,2023.0,Maybe,Yes,48,Iliya Valchanov
+QuickSheet,PDF,Digital Image Processing,Quick Summary Sheet - DIP Essentials,,1st,Joshua Pina,,,,,,2025.0,Yes,Yes,49,Joshua Pina
+QuickSheet,PDF,Linear Algebra,Linear Algebra Study Guide,,1st,Joshua Pina,,,,,,2025.0,Yes,Yes,50,Joshua Pina
+Study Guide,PDF,Math for Machine Learning,Applied Probability and Statistics Guide,ChatGPT Deep Dive,1st,Joshua Pina,ChatGPT,,,,,2025.0,Yes,Yes,51,"Joshua Pina, ChatGPT"
+Study Guide,PDF,Math for Machine Learning,"Study Guide: Applied Probability & Statistics, Machine Learning, and Big Data Programming",ChatGPT Deep Dive,1st,Joshua Pina,ChatGPT,,,,,2025.0,Yes,Yes,52,"Joshua Pina, ChatGPT"
+QuickSheet,PDF,Digital Image Processing,Quick Summary Sheet - DIP Midterm Topics,,1st ,Joshua Pina,,,,,,2025.0,Yes,Yes,53,Joshua Pina
+QuickSheet,PDF,Data Science,4-Week Python for Data Science Study Plan,Refresher Scaffoled with ChatGPT,1st,Joshua Pina,ChatGPT,,,,,2025.0,Yes,Yes,54,"Joshua Pina, ChatGPT"
+QuickSheet,PDF,WebDev,Small HTML Sheets,,1st,Joshua Pina,,,,,,2025.0,Yes,Yes,55,Joshua Pina
+QuickSheet,PDF,R,Probability and Statistics R Project,R Programming Basics,1st,Dr. Yang,,,,,,2025.0,Yes,Yes,56,Dr. Yang
+QuickSheet,PDF,Python,Python Cheat Sheet for Data Analysis,,1st,,,,,,IBM,2023.0,Yes,Yes,57,Unknown
+Study Guide,PDF,Data Structures and Algorithms,CodePath DSA CheatSheets,,1st,CodePath,,,,,CodePath,2025.0,Yes,Yes,58,CodePath
